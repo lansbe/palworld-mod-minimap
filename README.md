@@ -1,6 +1,6 @@
 # Palworld Minimap
 
-A lightweight native minimap for [Palworld Mods](../palworld-mods). Original Lua
+A lightweight native minimap for [Palworld Mods](https://github.com/lansbe/palworld-mods). Original Lua
 modules use the shared runtime API and the licensed game's own map textures.
 There are no external mod assets, loader binaries or personal settings here.
 
@@ -31,7 +31,7 @@ language; manual selection persists between sessions. All 17 locales ship in
 original IDs when the display language changes.
 
 New features must include every translation and pass `scripts/check_localization.py`.
-See the runtime's [localization contract](../palworld-mods/docs/localization.md).
+See the runtime's [localization contract](https://github.com/lansbe/palworld-mods/blob/master/docs/localization.md).
 
 ## Develop
 
@@ -47,3 +47,10 @@ lua tests/geometry.lua
 No user data is required to build or test. Settings live in the runtime's local
 Application Support directory. CPU work is sampled and cached, but cold asset
 loads and UMG creation can still cause isolated frame-time spikes.
+
+## Contributing and license
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, checks and pull-request guidelines.
+The original code is available under the [MIT license](LICENSE). Third-party
+components keep their own licenses. This is an independent community project,
+not an official Pocketpair product; Palworld and its game assets are not included.
