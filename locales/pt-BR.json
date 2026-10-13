@@ -1,0 +1,20 @@
+{
+  "name": "Minimapa",
+  "settings.shape": "Formato",
+  "shape.square": "Quadrado",
+  "shape.round": "Redondo",
+  "settings.follow": "Seguir a câmera",
+  "settings.dezoom": "Alcance",
+  "settings.transparency": "Transparência",
+  "settings.size": "Tamanho",
+  "settings.playersize": "Ícones dos jogadores",
+  "settings.poisize": "Ícones do mapa",
+  "settings.guild": "Membros da guilda",
+  "settings.bosses": "Chefes",
+  "settings.hidebeaten": "Ocultar chefes derrotados",
+  "settings.teleporters": "Viagem rápida",
+  "settings.dungeons": "Masmorras",
+  "settings.route": "Rota até o marcador",
+  "settings.x": "Posição horizontal",
+  "settings.y": "Posição vertical"
+}

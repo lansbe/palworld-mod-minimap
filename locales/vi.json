@@ -1,0 +1,20 @@
+{
+  "name": "Bản đồ nhỏ",
+  "settings.shape": "Hình dạng",
+  "shape.square": "Vuông",
+  "shape.round": "Tròn",
+  "settings.follow": "Theo góc nhìn",
+  "settings.dezoom": "Phạm vi",
+  "settings.transparency": "Độ trong suốt",
+  "settings.size": "Kích thước",
+  "settings.playersize": "Biểu tượng người chơi",
+  "settings.poisize": "Biểu tượng bản đồ",
+  "settings.guild": "Thành viên bang hội",
+  "settings.bosses": "Trùm",
+  "settings.hidebeaten": "Ẩn trùm đã đánh bại",
+  "settings.teleporters": "Dịch chuyển nhanh",
+  "settings.dungeons": "Hầm ngục",
+  "settings.route": "Đường đến điểm đánh dấu",
+  "settings.x": "Vị trí ngang",
+  "settings.y": "Vị trí dọc"
+}

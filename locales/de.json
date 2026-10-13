@@ -1,0 +1,20 @@
+{
+  "name": "Minikarte",
+  "settings.shape": "Form",
+  "shape.square": "Quadratisch",
+  "shape.round": "Rund",
+  "settings.follow": "Kamera folgen",
+  "settings.dezoom": "Reichweite",
+  "settings.transparency": "Transparenz",
+  "settings.size": "Größe",
+  "settings.playersize": "Spielersymbole",
+  "settings.poisize": "Kartensymbole",
+  "settings.guild": "Gildenmitglieder",
+  "settings.bosses": "Bosse",
+  "settings.hidebeaten": "Besiegte Bosse ausblenden",
+  "settings.teleporters": "Schnellreise",
+  "settings.dungeons": "Dungeons",
+  "settings.route": "Route zur Markierung",
+  "settings.x": "Horizontale Position",
+  "settings.y": "Vertikale Position"
+}

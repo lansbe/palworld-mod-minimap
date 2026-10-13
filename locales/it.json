@@ -1,0 +1,20 @@
+{
+  "name": "Minimappa",
+  "settings.shape": "Forma",
+  "shape.square": "Quadrata",
+  "shape.round": "Rotonda",
+  "settings.follow": "Segui la telecamera",
+  "settings.dezoom": "Portata",
+  "settings.transparency": "Trasparenza",
+  "settings.size": "Dimensioni",
+  "settings.playersize": "Icone dei giocatori",
+  "settings.poisize": "Icone della mappa",
+  "settings.guild": "Membri della gilda",
+  "settings.bosses": "Boss",
+  "settings.hidebeaten": "Nascondi i boss sconfitti",
+  "settings.teleporters": "Viaggio rapido",
+  "settings.dungeons": "Dungeon",
+  "settings.route": "Percorso al segnaposto",
+  "settings.x": "Posizione orizzontale",
+  "settings.y": "Posizione verticale"
+}

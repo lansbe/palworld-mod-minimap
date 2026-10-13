@@ -1,0 +1,20 @@
+{
+  "name": "Peta mini",
+  "settings.shape": "Bentuk",
+  "shape.square": "Persegi",
+  "shape.round": "Bulat",
+  "settings.follow": "Ikuti kamera",
+  "settings.dezoom": "Jangkauan",
+  "settings.transparency": "Transparansi",
+  "settings.size": "Ukuran",
+  "settings.playersize": "Ikon pemain",
+  "settings.poisize": "Ikon peta",
+  "settings.guild": "Anggota guild",
+  "settings.bosses": "Bos",
+  "settings.hidebeaten": "Sembunyikan bos yang dikalahkan",
+  "settings.teleporters": "Perjalanan cepat",
+  "settings.dungeons": "Dungeon",
+  "settings.route": "Rute ke penanda",
+  "settings.x": "Posisi horizontal",
+  "settings.y": "Posisi vertikal"
+}

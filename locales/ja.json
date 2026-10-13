@@ -1,0 +1,20 @@
+{
+  "name": "ミニマップ",
+  "settings.shape": "形状",
+  "shape.square": "四角",
+  "shape.round": "円形",
+  "settings.follow": "カメラに追従",
+  "settings.dezoom": "表示範囲",
+  "settings.transparency": "透明度",
+  "settings.size": "サイズ",
+  "settings.playersize": "プレイヤーアイコン",
+  "settings.poisize": "マップアイコン",
+  "settings.guild": "ギルドメンバー",
+  "settings.bosses": "ボス",
+  "settings.hidebeaten": "討伐済みボスを非表示",
+  "settings.teleporters": "ファストトラベル",
+  "settings.dungeons": "ダンジョン",
+  "settings.route": "マーカーへのルート",
+  "settings.x": "横位置",
+  "settings.y": "縦位置"
+}

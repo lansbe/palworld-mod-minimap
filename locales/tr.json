@@ -1,0 +1,20 @@
+{
+  "name": "Mini harita",
+  "settings.shape": "Şekil",
+  "shape.square": "Kare",
+  "shape.round": "Yuvarlak",
+  "settings.follow": "Kamerayı izle",
+  "settings.dezoom": "Menzil",
+  "settings.transparency": "Saydamlık",
+  "settings.size": "Boyut",
+  "settings.playersize": "Oyuncu simgeleri",
+  "settings.poisize": "Harita simgeleri",
+  "settings.guild": "Lonca üyeleri",
+  "settings.bosses": "Bosslar",
+  "settings.hidebeaten": "Yenilen bossları gizle",
+  "settings.teleporters": "Hızlı seyahat",
+  "settings.dungeons": "Zindanlar",
+  "settings.route": "İşaret rotası",
+  "settings.x": "Yatay konum",
+  "settings.y": "Dikey konum"
+}

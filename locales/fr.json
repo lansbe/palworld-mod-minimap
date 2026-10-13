@@ -1,0 +1,20 @@
+{
+  "name": "Mini-carte",
+  "settings.shape": "Forme",
+  "shape.square": "Carrée",
+  "shape.round": "Ronde",
+  "settings.follow": "Suivre la caméra",
+  "settings.dezoom": "Portée",
+  "settings.transparency": "Transparence",
+  "settings.size": "Taille",
+  "settings.playersize": "Icônes des joueurs",
+  "settings.poisize": "Icônes de la carte",
+  "settings.guild": "Membres de la guilde",
+  "settings.bosses": "Boss",
+  "settings.hidebeaten": "Masquer les boss vaincus",
+  "settings.teleporters": "Téléportation",
+  "settings.dungeons": "Donjons",
+  "settings.route": "Itinéraire vers le repère",
+  "settings.x": "Position horizontale",
+  "settings.y": "Position verticale"
+}

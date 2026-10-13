@@ -1,0 +1,20 @@
+{
+  "name": "小地圖",
+  "settings.shape": "形狀",
+  "shape.square": "方形",
+  "shape.round": "圓形",
+  "settings.follow": "跟隨視角",
+  "settings.dezoom": "範圍",
+  "settings.transparency": "透明度",
+  "settings.size": "大小",
+  "settings.playersize": "玩家圖示",
+  "settings.poisize": "地圖圖示",
+  "settings.guild": "公會成員",
+  "settings.bosses": "首領",
+  "settings.hidebeaten": "隱藏已擊敗的首領",
+  "settings.teleporters": "快速旅行",
+  "settings.dungeons": "地下城",
+  "settings.route": "標記路線",
+  "settings.x": "水平位置",
+  "settings.y": "垂直位置"
+}

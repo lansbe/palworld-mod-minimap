@@ -1,0 +1,20 @@
+{
+  "name": "미니맵",
+  "settings.shape": "모양",
+  "shape.square": "사각형",
+  "shape.round": "원형",
+  "settings.follow": "카메라 따라가기",
+  "settings.dezoom": "표시 범위",
+  "settings.transparency": "투명도",
+  "settings.size": "크기",
+  "settings.playersize": "플레이어 아이콘",
+  "settings.poisize": "지도 아이콘",
+  "settings.guild": "길드원",
+  "settings.bosses": "보스",
+  "settings.hidebeaten": "처치한 보스 숨기기",
+  "settings.teleporters": "빠른 이동",
+  "settings.dungeons": "던전",
+  "settings.route": "표식까지의 경로",
+  "settings.x": "가로 위치",
+  "settings.y": "세로 위치"
+}

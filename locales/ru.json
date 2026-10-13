@@ -1,0 +1,20 @@
+{
+  "name": "Мини-карта",
+  "settings.shape": "Форма",
+  "shape.square": "Квадратная",
+  "shape.round": "Круглая",
+  "settings.follow": "Следовать за камерой",
+  "settings.dezoom": "Дальность",
+  "settings.transparency": "Прозрачность",
+  "settings.size": "Размер",
+  "settings.playersize": "Значки игроков",
+  "settings.poisize": "Значки карты",
+  "settings.guild": "Участники гильдии",
+  "settings.bosses": "Боссы",
+  "settings.hidebeaten": "Скрыть побеждённых боссов",
+  "settings.teleporters": "Быстрое перемещение",
+  "settings.dungeons": "Подземелья",
+  "settings.route": "Маршрут к метке",
+  "settings.x": "Положение по горизонтали",
+  "settings.y": "Положение по вертикали"
+}

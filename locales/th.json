@@ -1,0 +1,20 @@
+{
+  "name": "แผนที่ย่อ",
+  "settings.shape": "รูปทรง",
+  "shape.square": "สี่เหลี่ยม",
+  "shape.round": "วงกลม",
+  "settings.follow": "หมุนตามกล้อง",
+  "settings.dezoom": "ระยะ",
+  "settings.transparency": "ความโปร่งใส",
+  "settings.size": "ขนาด",
+  "settings.playersize": "ไอคอนผู้เล่น",
+  "settings.poisize": "ไอคอนแผนที่",
+  "settings.guild": "สมาชิกกิลด์",
+  "settings.bosses": "บอส",
+  "settings.hidebeaten": "ซ่อนบอสที่ปราบแล้ว",
+  "settings.teleporters": "เดินทางด่วน",
+  "settings.dungeons": "ดันเจียน",
+  "settings.route": "เส้นทางไปยังหมุด",
+  "settings.x": "ตำแหน่งแนวนอน",
+  "settings.y": "ตำแหน่งแนวตั้ง"
+}

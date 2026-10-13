@@ -1,0 +1,20 @@
+{
+  "name": "Minimap",
+  "settings.shape": "Shape",
+  "shape.square": "Square",
+  "shape.round": "Round",
+  "settings.follow": "Follow camera",
+  "settings.dezoom": "Range",
+  "settings.transparency": "Transparency",
+  "settings.size": "Size",
+  "settings.playersize": "Player icons",
+  "settings.poisize": "Map icons",
+  "settings.guild": "Guild members",
+  "settings.bosses": "Bosses",
+  "settings.hidebeaten": "Hide defeated bosses",
+  "settings.teleporters": "Fast travel",
+  "settings.dungeons": "Dungeons",
+  "settings.route": "Marker route",
+  "settings.x": "Horizontal position",
+  "settings.y": "Vertical position"
+}

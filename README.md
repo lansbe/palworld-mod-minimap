@@ -22,6 +22,17 @@ Dungeon trails are supported; a complete room-and-wall floor plan is not part
 of this release. A route cannot cross unloaded or unavailable navigation data.
 Guild visibility depends on information replicated to the client by the host.
 
+## Language
+
+Requires Palworld Mods 0.3.0 or later. All labels, choices and hints follow the
+shared **Options → Mods → Language** preference. Automatic uses the actual game
+language; manual selection persists between sessions. All 17 locales ship in
+`locales/*.json`, with stable keys and an English fallback. Settings keep their
+original IDs when the display language changes.
+
+New features must include every translation and pass `scripts/check_localization.py`.
+See the runtime's [localization contract](../palworld-mods/docs/localization.md).
+
 ## Develop
 
 The sibling `palworld-mods` repository packages this repository's manifest and

@@ -1,0 +1,20 @@
+{
+  "name": "Minimapa",
+  "settings.shape": "Kształt",
+  "shape.square": "Kwadrat",
+  "shape.round": "Koło",
+  "settings.follow": "Podążaj za kamerą",
+  "settings.dezoom": "Zasięg",
+  "settings.transparency": "Przezroczystość",
+  "settings.size": "Rozmiar",
+  "settings.playersize": "Ikony graczy",
+  "settings.poisize": "Ikony mapy",
+  "settings.guild": "Członkowie gildii",
+  "settings.bosses": "Bossowie",
+  "settings.hidebeaten": "Ukryj pokonanych bossów",
+  "settings.teleporters": "Szybka podróż",
+  "settings.dungeons": "Lochy",
+  "settings.route": "Trasa do znacznika",
+  "settings.x": "Pozycja pozioma",
+  "settings.y": "Pozycja pionowa"
+}
